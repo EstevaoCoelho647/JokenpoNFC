@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JO KEN PO</string>
+
+    <string name="txt_userWin">VOCÊ VENCEU!!</string>
+    <string name="txt_pcWins">ADVERSÁRIO VENCEU!!</string>
+    <string name="txt_draw">EMPATE!!</string>
+</resources>
