@@ -275,6 +275,7 @@ public class MainActivity extends Activity {
         nfcAdapter.enableForegroundDispatch(this, pendingIntent, new IntentFilter[]{filter}, this.mNFCTechLists);
     }
 
+
     @Override
     protected void onPause() {
         super.onPause();
